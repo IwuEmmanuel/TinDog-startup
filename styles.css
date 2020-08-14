@@ -50,7 +50,7 @@ font-family: 'Montserrat', sans-serif;
 
 /* Title section */
 #title {
-  background-image: url(../images/Tindog_Main.png);
+  background-image: url(Tindog_Main.png);
   background-color: #f09ae9;
   color: #fff;
   background-size: cover;
@@ -100,7 +100,7 @@ font-family: 'Montserrat', sans-serif;
 
 /* Testimonal Section */
 #testimonials {
-  background-image: url(../images/blackdog4.jpg);
+  background-image: url(blackdog4.jpg);
   background-size: cover;
   background-color: #252525;
   text-align: center;
