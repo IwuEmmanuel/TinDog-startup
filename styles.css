@@ -202,3 +202,170 @@ font-family: 'Montserrat', sans-serif;
     font-size: 1.5rem;
   }
 }
+
+@media (max-width: 480x) {
+  /* .....Headings.... */
+  .Big-heading {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5rem;
+    line-height: 1;
+  }
+
+  .section-heading {
+    font-size: 1rem;
+    line-height: 1;
+  }
+
+  .download_button {
+    margin: 2% 2% 1% 0;
+  }
+
+  /* Navigation bar css */
+  .navbar {
+    padding: 0 0 3.5rem;
+  }
+
+  .navbar-brand {
+    font-size: 2rem;
+    font-family: 'Montez', cursive;
+    font-weight: bold;
+  }
+
+  .nav-item {
+    padding: 0 10px;
+  }
+
+  /* Containers */
+  .container-fluid {
+    padding: 3% 10%;
+  }
+
+  /* Title section */
+  #title {
+    background-image: url(Tindog_Main.png);
+    background-color: #f09ae9;
+    color: #fff;
+    background-size: cover;
+    text-align: left;
+  }
+
+  .TitleImagerotate {
+    position: static;
+    transform: rotate(0);
+  }
+
+  #title .container-fluid {
+    padding: 3% 10% 20%;
+  }
+
+  /* Features Section */
+  #features {
+    background-color: #ffffff;
+    position: relative;
+  }
+
+  .feature-title {
+    font-size: 1rem;
+  }
+
+  .space {
+    padding: 3%;
+  }
+
+  .text {
+    color: #8f8f8f;
+    font-weight: lighter;
+    padding: 3%;
+  }
+
+  .fontA {
+    color: #252525;
+    padding-bottom: 1rem;
+  }
+
+  .fontA:hover {
+    color: #cf1b1b;
+  }
+
+  /* Testimonal Section */
+  #testimonials {
+    background-image: url(blackdog4.jpg);
+    background-size: cover;
+    background-color: #252525;
+    text-align: center;
+    color: #ffffff;
+    line-height: 1.5rem;
+  }
+
+  .testimonial-image {
+    width: 12%;
+    border-radius: 100%;
+    margin: 5px;
+
+  }
+
+  .testimonial-text {
+    font-size: 1rem;
+    font-weight: bold;
+    line-height: 1;
+  }
+
+  .press_logo {
+    padding-top: 80px;
+    text-align: center;
+  }
+
+  .press_logo {
+    width: 5%;
+    margin: 20px 30px 40px;
+  }
+
+  .carousel-item {
+    padding: 10% 15% 20% 15%;
+  }
+
+  /* Pricing Section */
+  #pricing {
+    padding: 50px;
+    text-align: center;
+  }
+
+  .pricing-text {
+    font-size: 1.5rem;
+    font-weight: bold;
+    line-height: 1;
+  }
+
+  .column-cards {
+    padding: 3% 3%;
+    text-align: center;
+  }
+
+  /* CTA section  */
+  #cta {
+    background: rgb(2, 0, 36);
+    background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(216, 52, 95, 1) 49%, rgba(17, 3, 5, 0.9699230033810399) 100%);
+    color: white;
+    text-align: center;
+  }
+
+  /* FOOTER SECTION */
+  #footer {
+    background-color: #fff;
+    text-align: center;
+  }
+
+  .footer-paragraph {
+    font-size: 80%;
+    color: #838383;
+  }
+
+  .footer-icons {
+    margin: 30px;
+  }
+
+  .footer-icons:hover {
+    color: #dddddd;
+  }
+}
+
