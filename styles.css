@@ -237,7 +237,7 @@ font-family: 'Montserrat', sans-serif;
 
   /* Containers */
   .container-fluid {
-    padding: 3% 3%;
+    padding:0;
   }
 
   /* Title section */
