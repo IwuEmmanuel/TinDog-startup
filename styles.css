@@ -246,7 +246,7 @@ font-family: 'Montserrat', sans-serif;
     background-color: #f09ae9;
     color: #fff;
     background-size: cover;
-    text-align: left;
+    text-align: center;
   }
 
   .TitleImagerotate {
@@ -311,13 +311,8 @@ font-family: 'Montserrat', sans-serif;
   }
 
   .press_logo {
-    padding-top: 80px;
-    text-align: center;
-  }
-
-  .press_logo {
-    width: 5%;
-    margin: 20px 30px 40px;
+    width: 7%;
+    margin: 20px 10px;
   }
 
   .carousel-item {
@@ -334,6 +329,7 @@ font-family: 'Montserrat', sans-serif;
     font-size: 1.5rem;
     font-weight: bold;
     line-height: 1;
+    padding: 10px;
   }
 
   .column-cards {
@@ -347,6 +343,7 @@ font-family: 'Montserrat', sans-serif;
     background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(216, 52, 95, 1) 49%, rgba(17, 3, 5, 0.9699230033810399) 100%);
     color: white;
     text-align: center;
+    padding: 5%;
   }
 
   /* FOOTER SECTION */
