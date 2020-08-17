@@ -203,7 +203,7 @@ font-family: 'Montserrat', sans-serif;
   }
 }
 
-@media (max-width: 480x) {
+@media (max-width: 480px) {
   /* .....Headings.... */
   .Big-heading {
     font-family: 'Montserrat', sans-serif;
