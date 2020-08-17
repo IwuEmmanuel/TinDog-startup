@@ -316,7 +316,7 @@ font-family: 'Montserrat', sans-serif;
   }
 
   .carousel-item {
-    padding: 10% 15% 20% 15%;
+    padding: 25% 15% 15% 15%;
   }
 
   /* Pricing Section */
@@ -326,10 +326,10 @@ font-family: 'Montserrat', sans-serif;
   }
 
   .pricing-text {
-    font-size: 1.5rem;
+    font-size: 1rem;
     font-weight: bold;
     line-height: 1;
-    padding: 10px;
+    padding: 15px;
   }
 
   .column-cards {
@@ -343,7 +343,7 @@ font-family: 'Montserrat', sans-serif;
     background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(216, 52, 95, 1) 49%, rgba(17, 3, 5, 0.9699230033810399) 100%);
     color: white;
     text-align: center;
-    padding: 5%;
+    padding: 7%;
   }
 
   /* FOOTER SECTION */
